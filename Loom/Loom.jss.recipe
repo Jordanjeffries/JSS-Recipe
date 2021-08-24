@@ -34,7 +34,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.autopkg.nstrauss-recipes.pkg.Loom</string>
+	<string>com.github.autopkg.nstrauss.pkg.Loom</string>
 	<key>Process</key>
 	<array>
 		<dict>

@@ -5,18 +5,18 @@
 	<key>Comment</key>
 	<string>Created with Recipe Robot v1.0.5 (https://github.com/homebysix/recipe-robot)</string>
 	<key>Description</key>
-	<string>Downloads the latest version of Brave and creates a package.</string>
+	<string>Downloads the latest version of Krisp and creates a package.</string>
 	<key>Identifier</key>
 	<string>com.github.jordanjeffries.pkg.krisp</string>
 	<key>Input</key>
 	<dict>
 		<key>APP_FILENAME</key>
-		<string>Brave</string>
+		<string>krisp</string>
 		<key>NAME</key>
-		<string>Brave</string>
+		<string>krisp</string>
 	</dict>
 	<key>MinimumVersion</key>
-	<string>1.0.0</string>
+	<string>0.5.0</string>
 	<key>ParentRecipe</key>
 	<string>com.github.dataJAR-recipes.download.krisp</string>
 	<key>Process</key>

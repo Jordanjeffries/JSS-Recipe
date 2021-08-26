@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads latest Krisp disk image, builds a package, and uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>ai.krisp.krispMac</string>
+	<string>com.github.jordanjeffries-recipes.Krisp</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>

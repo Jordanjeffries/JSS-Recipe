@@ -14,7 +14,7 @@
 	<key>MinimumVersion</key>
 	<string>0.5.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.dataJAR-recipes.download.krisp</string>
+	<string>com.github.jordanjeffries-recipes.download.krisp</string>
 	<key>Process</key>
 	<array>
 		<dict>

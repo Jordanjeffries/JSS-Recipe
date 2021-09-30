@@ -21,11 +21,9 @@
 		<key>Comment</key>
 		<string>Get version from the app</string>
 		<key>Processor</key>
-		<dict>
 			<key>plist_version_key</key>
 			<string>CFBundleShortVersionString</string>
 		</dict>
-	</dict>
 	<dict>
 		<key>Processor</key>
 		<string>PkgCopier</string>

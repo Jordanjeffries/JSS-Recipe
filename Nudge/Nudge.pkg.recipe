@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of Nudge and builds a package.</string>
 	<key>Identifier</key>
-	<string>com.github.jordanjeffries.pkg.Nudge</string>
+	<string>com.github.jordanjeffries-recipes.pkg.Nudge</string>
 	<key>Input</key>
 <dict>
 	<key>NAME</key>

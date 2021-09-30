@@ -15,12 +15,10 @@
 <string>com.github.erikng.download.Nudge</string>
 <key>MinimumVersion</key>
 <string>1.0.4</string>
-<key>Process</key>
 <array>
 	<dict>
 		<key>Processor</key>
 		<string>PkgCopier</string>
-		<key>Arguments</key>
 		</dict>
 			</array>
 		</dict>
